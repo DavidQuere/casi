@@ -8,6 +8,6 @@ Projet réalisé dans le cadre de l'EC CASI. Le but est d'utiliser les principes
  * Hadoop
  * Hive
  
-## Architectire de la solution proposée
+## Architecture de la solution proposée
 
 ![](doc/architecture.png)
